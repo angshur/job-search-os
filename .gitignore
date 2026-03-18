@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.env
+venv/
+.venv/
+
+# Scraper output — don't commit these, they change every run
+pm_jobs.json
+pm_jobs.csv
+
+# OS
+.DS_Store
+Thumbs.db
